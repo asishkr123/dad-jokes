@@ -2,7 +2,7 @@
   "name": "dad_joke",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://codemesid.github.io/dad-jokes",
+  "homepage": "https://asishkr123.github.io/dad-jokes",
   "dependencies": {
     "axios": "^0.19.0",
     "gh-pages": "^2.0.1",
